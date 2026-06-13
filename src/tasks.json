@@ -1,0 +1,575 @@
+[
+  {
+    "id": "T-104",
+    "title": "Add OTP login flow",
+    "status": "In Progress",
+    "assignee": "Priya Sharma",
+    "estimateHours": 5,
+    "createdDate": "26/04/2026",
+    "dueDate": "2026-05-12",
+    "priority": "High",
+    "tags": [
+      "ui",
+      "bug"
+    ]
+  },
+  {
+    "id": "T-110",
+    "title": "Migrate to Vite",
+    "status": "In Progress",
+    "assignee": "Divya Nair",
+    "estimateHours": 12,
+    "createdDate": "04/05/2026",
+    "dueDate": "May 29, 2026",
+    "priority": "Medium",
+    "tags": [
+      "bug"
+    ]
+  },
+  {
+    "id": "T-118",
+    "title": "Compress hero video",
+    "status": "Review",
+    "assignee": "Divya Nair",
+    "estimateHours": "abc",
+    "createdDate": "22/04/2026",
+    "dueDate": "May 18, 2026",
+    "priority": "Low",
+    "tags": [
+      "client",
+      "perf"
+    ]
+  },
+  {
+    "id": "T-124",
+    "title": "Notification badge count",
+    "status": "In Progress",
+    "assignee": "Aman Verma",
+    "estimateHours": 12,
+    "createdDate": "May 29, 2026",
+    "dueDate": "2026-06-09",
+    "priority": "High",
+    "tags": [
+      "perf",
+      "ui",
+      "design"
+    ]
+  },
+  {
+    "id": "T-136",
+    "title": "FAQ accordion rebuild",
+    "status": "In Progress",
+    "assignee": "Divya Nair",
+    "estimateHours": 10,
+    "createdDate": "May 30, 2026",
+    "dueDate": "2026-06-25",
+    "priority": "High",
+    "tags": [
+      "design"
+    ]
+  },
+  {
+    "id": "T-137",
+    "title": "Rate limiter on login",
+    "status": "Backlog",
+    "assignee": "Rohit Mehta",
+    "estimateHours": 4,
+    "createdDate": "31/05/2026",
+    "dueDate": "2026-06-20",
+    "priority": "High",
+    "tags": [
+      "bug",
+      "ui"
+    ]
+  },
+  {
+    "id": "T-116",
+    "title": "Add skeleton loaders",
+    "status": "Backlog",
+    "assignee": "Rohit Mehta",
+    "estimateHours": 6,
+    "createdDate": "2026-05-09",
+    "dueDate": "2026-05-12",
+    "priority": "High",
+    "tags": [
+      "ui",
+      "design",
+      "client"
+    ]
+  },
+  {
+    "id": "T-132",
+    "title": "Sitemap generator",
+    "status": "In Progress",
+    "assignee": "Priya Sharma",
+    "estimateHours": 12,
+    "createdDate": "June 5, 2026",
+    "dueDate": "June 15, 2026",
+    "priority": "Medium",
+    "tags": [
+      "design",
+      "perf",
+      "ui"
+    ]
+  },
+  {
+    "id": "T-105",
+    "title": "Refactor product card component",
+    "status": "Review",
+    "assignee": "Aman Verma",
+    "estimateHours": 12,
+    "createdDate": "April 16, 2026",
+    "dueDate": "2026-04-30",
+    "priority": "Medium",
+    "tags": [
+      "perf"
+    ]
+  },
+  {
+    "id": "T-102",
+    "title": "Integrate Razorpay checkout",
+    "status": "Backlog",
+    "assignee": "",
+    "estimateHours": 2,
+    "createdDate": "2026-04-23",
+    "dueDate": "2026-05-13",
+    "priority": "High",
+    "tags": [
+      "perf"
+    ]
+  },
+  {
+    "id": "T-134",
+    "title": "Checkout address form",
+    "status": "QA-Hold",
+    "assignee": "Kunal Joshi",
+    "estimateHours": 5,
+    "createdDate": "May 5, 2026",
+    "dueDate": "12/05/2026",
+    "priority": "High",
+    "tags": [
+      "design",
+      "bug",
+      "client"
+    ]
+  },
+  {
+    "id": "T-106",
+    "title": "Write API error logger",
+    "status": "Review",
+    "assignee": "Rohit Mehta",
+    "estimateHours": 5,
+    "createdDate": "May 22, 2026",
+    "dueDate": "2026-06-20",
+    "priority": "High",
+    "tags": [
+      "api",
+      "bug",
+      "ui"
+    ]
+  },
+  {
+    "id": "T-119",
+    "title": "Form validation cleanup",
+    "status": "Backlog",
+    "assignee": "Aman Verma",
+    "estimateHours": 5,
+    "createdDate": "May 25, 2026",
+    "dueDate": "2026-06-04",
+    "priority": "High",
+    "tags": [
+      "design"
+    ]
+  },
+  {
+    "id": "T-114",
+    "title": "Invoice PDF export",
+    "status": "In Progress",
+    "assignee": "Sneha Iyer",
+    "estimateHours": 2,
+    "createdDate": "June 2, 2026",
+    "dueDate": "June 14, 2026",
+    "priority": "Medium",
+    "tags": [
+      "api",
+      "perf",
+      "ui"
+    ]
+  },
+  {
+    "id": "T-125",
+    "title": "Currency formatting fix",
+    "status": "Backlog",
+    "assignee": "Sneha Iyer",
+    "estimateHours": 12,
+    "createdDate": "22/04/2026",
+    "dueDate": "2026-05-22",
+    "priority": "Medium",
+    "tags": [
+      "api"
+    ]
+  },
+  {
+    "id": "T-133",
+    "title": "Image alt text audit",
+    "status": "Review",
+    "assignee": "Divya Nair",
+    "estimateHours": 3,
+    "createdDate": "2026-04-28",
+    "dueDate": "27/05/2026",
+    "priority": "High",
+    "tags": [
+      "design"
+    ]
+  },
+  {
+    "id": "T-117",
+    "title": "Fix date picker timezone",
+    "status": "Done",
+    "assignee": "Kunal Joshi",
+    "estimateHours": 4,
+    "createdDate": "2026-04-18",
+    "dueDate": "April 23, 2026",
+    "priority": "Medium",
+    "tags": [
+      "api",
+      "bug",
+      "client"
+    ],
+    "completedDate": "June 13, 2026"
+  },
+  {
+    "id": "T-112",
+    "title": "SEO meta tags audit",
+    "status": "Done",
+    "assignee": "N/A",
+    "estimateHours": 4,
+    "createdDate": "May 9, 2026",
+    "dueDate": "2026-05-14",
+    "priority": "Low",
+    "tags": [
+      "perf",
+      "ui"
+    ],
+    "completedDate": "12/06/2026"
+  },
+  {
+    "id": "T-121",
+    "title": "Wishlist sync issue",
+    "status": "Backlog",
+    "assignee": "Kunal Joshi",
+    "estimateHours": 12,
+    "createdDate": "2026-05-27",
+    "dueDate": "16/06/2026",
+    "priority": "Medium",
+    "tags": [
+      "ui"
+    ]
+  },
+  {
+    "id": "T-138",
+    "title": "Breadcrumb navigation",
+    "status": "Done",
+    "assignee": "Divya Nair",
+    "estimateHours": 3,
+    "createdDate": "18/05/2026",
+    "dueDate": "May 27, 2026",
+    "priority": "Medium",
+    "tags": [
+      "design",
+      "api",
+      "perf"
+    ],
+    "completedDate": "2026-05-26"
+  },
+  {
+    "id": "T-109",
+    "title": "Email template redesign",
+    "status": "Done",
+    "assignee": "Priya Sharma",
+    "estimateHours": 8,
+    "createdDate": "2026-05-23",
+    "dueDate": "2026-06-15",
+    "priority": "High",
+    "tags": [
+      "client",
+      "bug"
+    ],
+    "completedDate": "June 10, 2026"
+  },
+  {
+    "id": "T-111",
+    "title": "Fix cart quantity bug",
+    "status": "Done",
+    "assignee": "Kunal Joshi",
+    "estimateHours": 6,
+    "createdDate": "June 1, 2026",
+    "dueDate": "June 11, 2026",
+    "priority": "Medium",
+    "tags": [
+      "client",
+      "bug",
+      "api"
+    ],
+    "completedDate": "2026-06-11"
+  },
+  {
+    "id": "T-135",
+    "title": "Testimonials slider",
+    "status": "Backlog",
+    "assignee": "Divya Nair",
+    "estimateHours": 10,
+    "createdDate": "24/05/2026",
+    "dueDate": "2026-06-23",
+    "priority": "High",
+    "tags": [
+      "api",
+      "bug"
+    ]
+  },
+  {
+    "id": "T-107",
+    "title": "Dark mode toggle",
+    "status": "Done",
+    "assignee": "Sneha Iyer",
+    "estimateHours": 6,
+    "createdDate": "16/04/2026",
+    "dueDate": "April 26, 2026",
+    "priority": "Medium",
+    "tags": [
+      "bug"
+    ],
+    "completedDate": "2026-06-08"
+  },
+  {
+    "id": "T-122",
+    "title": "Improve search relevance",
+    "status": "In Progress",
+    "assignee": "n/a",
+    "estimateHours": 10,
+    "createdDate": "03/06/2026",
+    "dueDate": "June 27, 2026",
+    "priority": "High",
+    "tags": [
+      "design",
+      "ui",
+      "perf"
+    ]
+  },
+  {
+    "id": "T-101",
+    "title": "Fix navbar overlap on tablet",
+    "status": "Backlog",
+    "assignee": "Rohit Mehta",
+    "estimateHours": 5,
+    "createdDate": "2026-04-30",
+    "dueDate": "2026-05-06",
+    "priority": "Low",
+    "tags": [
+      "design"
+    ]
+  },
+  {
+    "id": "T-129",
+    "title": "Blog listing pagination",
+    "status": "Backlog",
+    "assignee": "Aman Verma",
+    "estimateHours": 5,
+    "createdDate": "April 27, 2026",
+    "dueDate": "May 27, 2026",
+    "priority": "High",
+    "tags": [
+      "ui",
+      "client",
+      "bug"
+    ]
+  },
+  {
+    "id": "T-108",
+    "title": "Client dashboard charts",
+    "status": "Done",
+    "assignee": "Divya Nair",
+    "estimateHours": 3,
+    "createdDate": "April 28, 2026",
+    "dueDate": "May 9, 2026",
+    "priority": "High",
+    "tags": [
+      "design",
+      "api",
+      "perf"
+    ],
+    "completedDate": "09/06/2026"
+  },
+  {
+    "id": "T-128",
+    "title": "Profile photo upload",
+    "status": "Done",
+    "assignee": "Kunal Joshi",
+    "estimateHours": 4,
+    "createdDate": "2026-05-10",
+    "dueDate": "May 29, 2026",
+    "priority": "High",
+    "tags": [
+      "ui"
+    ],
+    "completedDate": "2026-05-25"
+  },
+  {
+    "id": "T-126",
+    "title": "Order tracking page",
+    "status": "Done",
+    "assignee": "Rohit Mehta",
+    "estimateHours": 12,
+    "createdDate": "16/05/2026",
+    "dueDate": "19/05/2026",
+    "priority": "Low",
+    "tags": [
+      "perf",
+      "client",
+      "api"
+    ],
+    "completedDate": "18/05/2026"
+  },
+  {
+    "id": "T-127",
+    "title": "Payment retry handler",
+    "status": "Review",
+    "assignee": null,
+    "estimateHours": 2,
+    "createdDate": "May 27, 2026",
+    "dueDate": "31/05/2026",
+    "priority": "High",
+    "tags": [
+      "perf"
+    ]
+  },
+  {
+    "id": "T-120",
+    "title": "Add 404 page",
+    "status": "Backlog",
+    "assignee": "Aman Verma",
+    "estimateHours": -2,
+    "createdDate": "2026-04-30",
+    "dueDate": "May 4, 2026",
+    "priority": "High",
+    "tags": [
+      "design",
+      "client"
+    ]
+  },
+  {
+    "id": "T-123",
+    "title": "Admin role permissions",
+    "status": "In Progress",
+    "assignee": "Aman Verma",
+    "estimateHours": 5,
+    "createdDate": "2026-05-15",
+    "dueDate": "2026-06-10",
+    "priority": "Low",
+    "tags": [
+      "api",
+      "client"
+    ]
+  },
+  {
+    "id": "T-130",
+    "title": "Sticky header glitch",
+    "status": "Pending Client",
+    "assignee": "Rohit Mehta",
+    "estimateHours": 5,
+    "createdDate": "24/05/2026",
+    "dueDate": "02/06/2026",
+    "priority": "High",
+    "tags": [
+      "design",
+      "bug",
+      "client"
+    ]
+  },
+  {
+    "id": "T-113",
+    "title": "Implement lazy routes",
+    "status": "Review",
+    "assignee": "Kunal Joshi",
+    "estimateHours": "8",
+    "createdDate": "May 2, 2026",
+    "dueDate": "May 19, 2026",
+    "priority": "High",
+    "tags": [
+      "perf",
+      "bug",
+      "design"
+    ]
+  },
+  {
+    "id": "T-115",
+    "title": "Update footer links",
+    "status": "In Progress",
+    "assignee": "Divya Nair",
+    "estimateHours": 5,
+    "createdDate": "2026-04-15",
+    "dueDate": "08/05/2026",
+    "priority": "High",
+    "tags": [
+      "perf",
+      "ui",
+      "bug"
+    ]
+  },
+  {
+    "id": "T-131",
+    "title": "Coupon code engine",
+    "status": "Review",
+    "assignee": "Kunal Joshi",
+    "estimateHours": -5,
+    "createdDate": "2026-06-09",
+    "dueDate": "June 26, 2026",
+    "priority": "High",
+    "tags": [
+      "bug",
+      "api",
+      "design"
+    ]
+  },
+  {
+    "id": "T-103",
+    "title": "Optimize image loading",
+    "status": "Review",
+    "assignee": "Divya Nair",
+    "estimateHours": 10,
+    "createdDate": "2026-05-02",
+    "dueDate": "05/05/2026",
+    "priority": "Low",
+    "tags": [
+      "ui",
+      "api"
+    ]
+  },
+  {
+    "id": "T-107",
+    "title": "Dark mode toggle (updated)",
+    "status": "Done",
+    "assignee": "Sneha Iyer",
+    "estimateHours": 6,
+    "createdDate": "16/04/2026",
+    "dueDate": "April 26, 2026",
+    "priority": "High",
+    "tags": [
+      "bug"
+    ],
+    "completedDate": "2026-06-08"
+  },
+  {
+    "id": "T-125",
+    "title": "Currency formatting fix (updated)",
+    "status": "Backlog",
+    "assignee": "Sneha Iyer",
+    "estimateHours": 12,
+    "createdDate": "22/04/2026",
+    "dueDate": "2026-05-22",
+    "priority": "High",
+    "tags": [
+      "api"
+    ]
+  }
+]
